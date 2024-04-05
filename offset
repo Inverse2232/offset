@@ -36,18 +36,18 @@
     "traversalProgress": 10988
 },
   "CS": {
-    "dwEntityList": 25963864,
-    "dwLocalPlayerController": 26289528,
-    "dwViewMatrix": 26362272,
-    "dwGlobalVars": 24292256,
+    "dwEntityList": 25959864,
+    "dwLocalPlayerController": 26285432,
+    "dwViewMatrix": 26358192,
+    "dwGlobalVars": 24288160,
     "m_iTeamNum": 971,
     "m_vOldOrigin": 4732,
     "m_iHealth": 820,
     "m_ArmorValue": 5488,
-    "C_CSPlayerPawn": 2020,
+    "m_hPlayerPawn ": 2020,
     "m_sSanitizedPlayerName": 1864,
     "angEyeAngles": 5496,
-    "EntitySpottedState_t": 5784,
+    "m_entitySpottedState": 5784,
     "m_iIDEntIndex": 5540,
     "BoneArray": 480
   }
