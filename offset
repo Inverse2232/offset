@@ -33,7 +33,8 @@
     "Yaw": 8756,
     "AbsVelocity": 368,
     "traversalStartTime": 10992,
-    "traversalProgress": 10988
+    "traversalProgress": 10988,
+    "m_pStudioHdr": 4080
 },
   "CS": {
     "dwEntityList": 25959864,
