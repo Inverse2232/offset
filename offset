@@ -36,11 +36,11 @@
     "m_pStudioHdr": 4080
 },
   "CS": {
-    "dwEntityList": 25959864,
-    "dwLocalPlayerController": 26285432,
-    "dwViewMatrix": 26358192,
+    "dwEntityList": 25959912,
+    "dwLocalPlayerController": 26285480,
+    "dwViewMatrix": 26358240,
     "dwGlobalVars": 24288160,
-    "dwPlantedC4": 26376808,
+    "dwPlantedC4": 26376856,
     "m_iTeamNum": 971,
     "m_vOldOrigin": 4732,
     "m_iHealth": 820,
