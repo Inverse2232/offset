@@ -33,7 +33,8 @@
     "m_vecAbsVelocity": 368,
     "traversalStartTime": 10992,
     "traversalProgress": 10988,
-    "m_pStudioHdr": 4080
+    "m_pStudioHdr": 4080,
+    "m_vecPunchWeapon_Angle": 9272
 },
   "CS": {
     "dwEntityList": 25959912,
