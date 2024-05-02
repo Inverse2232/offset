@@ -37,12 +37,12 @@
     "m_vecPunchWeapon_Angle": 9272
 },
   "CS": {
-    "useMine": 0,
-    "dwEntityList": 25977448,
-    "dwLocalPlayerController": 26303512,
-    "dwViewMatrix": 26376368,
-    "dwGlobalVars": 24304992,
-    "dwPlantedC4": 26395656,
+    "useMine": 1,
+    "dwEntityList": 25992824,
+    "dwLocalPlayerController": 26318216,
+    "dwViewMatrix": 26391312,
+    "dwGlobalVars": 24317728,
+    "dwPlantedC4": 26410936,
     "m_iTeamNum": 971,
     "m_vOldOrigin": 4732,
     "m_iHealth": 820,
