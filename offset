@@ -5,7 +5,7 @@
     "ViewRender": 121575800,
     "dwViewMatrix": 1155920,
     "LevelName": 24089840,
-    "HighlightSettings": 196233168,
+    "HighlightSettings": 182335936,
     "InJump": 121580792,
     "InDuck": 121581048,
     "m_iTeamNum": 808,
@@ -37,7 +37,7 @@
     "m_vecPunchWeapon_Angle": 9272
 },
   "CS": {
-    "useMine": 1,
+    "useMine": 2,
     "dwEntityList": 25992824,
     "dwLocalPlayerController": 26318216,
     "dwViewMatrix": 26391312,
