@@ -54,6 +54,7 @@
     "m_iIDEntIndex": 5040,
     "m_vecAbsOrigin": 200,
     "m_flC4Blow": 3848,
+    "m_pGameSceneNode": 776,
     "BoneArray": 496
   }
 }
