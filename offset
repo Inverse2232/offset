@@ -55,6 +55,7 @@
     "m_vecAbsOrigin": 200,
     "m_flC4Blow": 3848,
     "m_pGameSceneNode": 776,
+    "m_pClippingWeapon": 4848,
     "BoneArray": 496
   }
 }
