@@ -1,13 +1,13 @@
 {
   "APEX": {
-    "dwEntityList": 32903240,
-    "dwLocalPlayer": 24535608,
+    "dwEntityList": 27395000,
+    "dwLocalPlayer": 31266280,
     "ViewRender": 124684088,
     "dwViewMatrix": 1155920,
-    "LevelName": 25384644,
+    "LevelName": 20448112,
     "HighlightSettings": 186491424,
     "InJump": 124684608,
-    "InDuck": 124684848,
+    "InDuck": 195237112,
     "m_iTeamNum": 824,
     "m_vecOrigin": 4644,
     "BoneArray": 3576,
