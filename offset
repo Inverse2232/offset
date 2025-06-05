@@ -64,6 +64,10 @@
     "DamageHandler": "0xA08",
     "Health": "0x1E0",
     "RootComponent": "0x238",
+    "CameraCachePrivate": "0x1F80",
+    "TimeRemainingToExplode": "0x4d4",
+    "AccountLevel": "0x66C",
+    "NickNameFull": "0x418",
     "RelativeLocation": "0x164"
   }
 }
