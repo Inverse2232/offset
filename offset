@@ -56,5 +56,14 @@
     "m_pClippingWeapon": 4848,
     "MapNamePtr": 384,
     "BoneArray": 496
+  },
+  "VAL": {
+    "ShadowData": "0x71B48",
+    "GNames": "0xB44F0C0",
+    "GWorld": "0x9F3F050",
+    "DamageHandler": "0xA08",
+    "Health": "0x1E0",
+    "RootComponent": "0x238",
+    "RelativeLocation": "0x164"
   }
 }
