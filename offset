@@ -33,6 +33,8 @@
     "m_vecAbsVelocity": "0x170",
     "traversalProgress": "0x2BC4",
     "m_pStudioHdr": "0xfd0",
+    "ObserverList": "0x619e1c8",
+    "ObserverIndex": "0x954",
     "m_vecPunchWeapon_Angle": "0x2498"
 },
   "CS": {
