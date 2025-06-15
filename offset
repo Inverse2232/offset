@@ -58,6 +58,9 @@
     "m_pGameSceneNode": 776,
     "m_pClippingWeapon": 4848,
     "MapNamePtr": 384,
+    "m_hController": 4924,
+    "m_pObserverServices": 4544,
+    "m_hObserverTarget": 68,
     "BoneArray": 496
   },
   "VAL": {
