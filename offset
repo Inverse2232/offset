@@ -60,6 +60,7 @@
     "MapNamePtr": 384,
     "m_hController": 4924,
     "m_pObserverServices": 4544,
+    "m_hPawn": 1580,
     "m_hObserverTarget": 68,
     "BoneArray": 496
   },
