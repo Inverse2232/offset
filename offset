@@ -69,12 +69,12 @@
     "GNames": "0xB44F0C0",
     "GWorld": "0x9F3F050",
     "DamageHandler": "0xA08",
-    "Health": "0x1E0",
+    "Health": "0x1F0",
     "RootComponent": "0x238",
     "CameraCachePrivate": "0x1F80",
     "TimeRemainingToExplode": "0x4d4",
-    "AccountLevel": "0x66C",
-    "NickNameFull": "0x3E8",
+    "AccountLevel": "0x67C",
+    "NickNameFull": "0x3F8",
     "RelativeLocation": "0x164"
   }
 }
