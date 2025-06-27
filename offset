@@ -66,8 +66,8 @@
   },
   "VAL": {
     "ShadowData": "0x71B48",
-    "GNames": "0xB44F0C0",
-    "GWorld": "0x9F3F050",
+    "GNames": "0xB4CA600",
+    "GWorld": "0x9FA80D0",
     "DamageHandler": "0xA08",
     "Health": "0x1F0",
     "RootComponent": "0x238",
