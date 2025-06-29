@@ -29,7 +29,7 @@
     "ViewAngles": "0x2580",
     "camera_origin": "0x1fac",
     "TimeBase": "0x2150",
-    "Yaw": "0x2294",
+    "Yaw": "0x2304",
     "m_vecAbsVelocity": "0x170",
     "traversalProgress": "0x2c2c",
     "m_pStudioHdr": "0xfd0",
