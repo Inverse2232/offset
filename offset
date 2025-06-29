@@ -32,7 +32,7 @@
     "Yaw": "0x2304",
     "m_vecAbsVelocity": "0x170",
     "traversalProgress": "0x2c2c",
-    "m_pStudioHdr": "0xfd0",
+    "m_pStudioHdr": "0xfe8",
     "ObserverList": "0x6192798",
     "ObserverIndex": "0x954",
     "m_vecPunchWeapon_Angle": "0x2500"
