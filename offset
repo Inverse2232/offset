@@ -2,6 +2,8 @@
   "APEX": {
     "cl_entitylist": "0x6190778",
     "LocalPlayer": "0x26a2578",
+    "NameList": "0x8bc2790",
+    "ObserverList": "0x6192798",
     "ViewRender": "0x3c81f10",
     "ViewMatrix": "0x11a350",
     "LevelName": "0x1b99724",
@@ -33,7 +35,6 @@
     "m_vecAbsVelocity": "0x170",
     "traversalProgress": "0x2c2c",
     "m_pStudioHdr": "0xfe8",
-    "ObserverList": "0x6192798",
     "ObserverIndex": "0x954",
     "m_vecPunchWeapon_Angle": "0x2500"
 },
