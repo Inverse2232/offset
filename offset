@@ -62,7 +62,7 @@
     "m_pObserverServices": 4544,
     "m_hPawn": 1580,
     "m_hObserverTarget": 68,
-    "BoneArray": 496
+    "BoneArray": 528
   },
   "VAL": {
     "ShadowData": "0x80708",
