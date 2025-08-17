@@ -57,7 +57,7 @@
     "m_flC4Blow": 3848,
     "m_pGameSceneNode": 776,
     "m_pClippingWeapon": 4848,
-    "MapNamePtr": 384,
+    "MapNamePtr": 376,
     "m_hController": 4924,
     "m_pObserverServices": 4544,
     "m_hPawn": 1580,
