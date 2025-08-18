@@ -38,7 +38,7 @@
     "m_vecPunchWeapon_Angle": "0x2500"
 },
   "CS": {
-    "useMine": 2,
+    "useMine": 3,
     "dwEntityList": 25992824,
     "dwLocalPlayerController": 26318216,
     "dwViewMatrix": 26391312,
