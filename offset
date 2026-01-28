@@ -26,16 +26,16 @@
     "GlowDistance": "0x264",
     "HighlightID": "0x298",
     "HighlightTypeSize": "0x34",
-    "m_bleedoutState": "0x2820",
+    "m_bleedoutState": "0x28a0",
     "LastVisibleTime": "0x1a54",
     "m_ammoPoolCapacity": "0x25FC",
     "camera_origin": "0x1fb4",
     "TimeBase": "0x2150",
     "m_vecAbsVelocity": "0x170",
     "traversalProgress": "0x2c2c",
-    "m_pStudioHdr": "0xfe8",
+    "m_pStudioHdr": "0xff0",
     "ObserverIndex": "0x954",
-    "m_vecPunchWeapon_Angle": "0x2500"
+    "m_vecPunchWeapon_Angle": "0x0040"
 },
   "CS": {
     "useMine": 2,
